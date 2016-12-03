@@ -1,4 +1,5 @@
-# Awesome Visual Studio 
+# Awesome Visual Studio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft.
 Moreover, this page also includes some items relevant for Windows developers.
