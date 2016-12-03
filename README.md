@@ -25,6 +25,11 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [CodeAlignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) - Language-agnostic plugin that vertically aligns code, e.g. on `=` signs or even customizable regular expressions.
 - [Roaming Extension Manager](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.RoamingExtensionManager) - Stores your installed extensions in the cloud and synchronizes them across your machines for a uniform experience.
 
+## Documentation
+
+- [MSDN](https://msdn.microsoft.com/en-us/library/dd831853.aspx) - The Visual Studio landing page on Microsoft's Developer Network.
+- [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - Github repo with the documentation for the upcoming VS2017RC
+
 ## Themes
 
 - 
