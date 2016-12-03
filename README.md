@@ -47,3 +47,5 @@ Moreover, this page also includes some items relevant for Windows developers.
 ## Documentation
  - [Windows Dev Center](https://developer.microsoft.com/en-us/windows) - Microsoft landing page for developers.
  - [Channel9: Visual Studio](https://channel9.msdn.com/VisualStudio) - Visual Studio content on Microsoft's Video Channel 9
+ - [Windows development videos](https://developer.microsoft.com/en-us/windows/develop/app-development-video) - Videos covering Windows development
+ - [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material
