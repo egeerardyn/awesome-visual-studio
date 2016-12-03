@@ -29,11 +29,15 @@ Moreover, this page also includes some items relevant for Windows developers.
 ## Documentation
 
 - [MSDN](https://msdn.microsoft.com/en-us/library/dd831853.aspx) - The Visual Studio landing page on Microsoft's Developer Network.
-- [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - Github repo with the documentation for the upcoming VS2017RC
+- [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - Github repo with the documentation for the upcoming VS2017RC.
 
 ## Themes
 
-- 
+
+
+## Social Media
+
+- [@visualstudio](https://twitter.com/visualstudio) - Official Microsoft Visual Studio account on Twitter.
 
 ## Blogs
 
@@ -46,6 +50,6 @@ Moreover, this page also includes some items relevant for Windows developers.
 
 ## Documentation
  - [Windows Dev Center](https://developer.microsoft.com/en-us/windows) - Microsoft landing page for developers.
- - [Channel9: Visual Studio](https://channel9.msdn.com/VisualStudio) - Visual Studio content on Microsoft's Video Channel 9
+ - [Channel9: Visual Studio](https://channel9.msdn.com/VisualStudio) - Visual Studio content on Microsoft's Video Channel 9.
  - [Windows development videos](https://developer.microsoft.com/en-us/windows/develop/app-development-video) - Videos covering Windows development
- - [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material
+ - [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material.
