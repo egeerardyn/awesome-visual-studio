@@ -25,11 +25,13 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015) - Many language-agnostic productivity tools.
 - [CodeAlignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) - Language-agnostic plug-in that vertically aligns code, e.g. on `=` signs or even customizable regular expressions.
 - [Roaming Extension Manager](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.RoamingExtensionManager) - Stores your installed extensions in the cloud and synchronizes them across your machines for a uniform experience.
+- [Keyboard Shortcut Exporter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KeyboardShortcutExporter) - Exports your keyboard shortcuts to XML.
 
 ## Documentation
 
 - [MSDN](https://msdn.microsoft.com/en-us/library/dd831853.aspx) - The Visual Studio landing page on Microsoft's Developer Network.
 - [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - GitHub repo with the documentation for the upcoming VS2017RC.
+- [Visual Studio Shortcuts](http://visualstudioshortcuts.com/) - Overview of keyboard shortcuts for Visual Studio 2012 to 2017 organized by version.
 
 ## Themes
 
