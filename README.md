@@ -19,17 +19,17 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [GitHub](https://visualstudio.github.com/) - GitHub integration for Visual Studio.
 - [Web Essentials](http://vswebessentials.com/) - Tools for web development (CSS, HTML, JavaScript, TypeScript, CoffeeScript, Less, ...).
 - [Syntax Highlighting Pack](https://visualstudiogallery.msdn.microsoft.com/d92fd742-bab3-4314-b866-50b871d679ee) - Syntax highlighting for many more languages.
-- [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379) - Easily open CMD or Powershell from within Visual Studio.
+- [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379) - Easily open CMD or PowerShell from within Visual Studio.
 - [Multi Edit Mode](https://visualstudiogallery.msdn.microsoft.com/2beb9705-b568-45d1-8550-751e181e3aef) - Adds multiple cursors to Visual Studio.
-- [CodeMaid](http://www.codemaid.net/) - Plugin for clean-up and simplification of many code tasks in C++, C#, and many other languages.
+- [CodeMaid](http://www.codemaid.net/) - Plug-in for clean-up and simplification of many code tasks in C++, C#, and many other languages.
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015) - Many language-agnostic productivity tools.
-- [CodeAlignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) - Language-agnostic plugin that vertically aligns code, e.g. on `=` signs or even customizable regular expressions.
+- [CodeAlignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) - Language-agnostic plug-in that vertically aligns code, e.g. on `=` signs or even customizable regular expressions.
 - [Roaming Extension Manager](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.RoamingExtensionManager) - Stores your installed extensions in the cloud and synchronizes them across your machines for a uniform experience.
 
 ## Documentation
 
 - [MSDN](https://msdn.microsoft.com/en-us/library/dd831853.aspx) - The Visual Studio landing page on Microsoft's Developer Network.
-- [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - Github repo with the documentation for the upcoming VS2017RC.
+- [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - GitHub repo with the documentation for the upcoming VS2017RC.
 
 ## Themes
 
@@ -37,7 +37,8 @@ Moreover, this page also includes some items relevant for Windows developers.
 
 ## Social Media
 
-- [@visualstudio](https://twitter.com/visualstudio) - Official Microsoft Visual Studio account on Twitter.
+- [Twitter: @visualstudio](https://twitter.com/visualstudio) - Visual Studio Twitter account.
+
 
 ## Blogs
 
