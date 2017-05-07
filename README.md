@@ -27,6 +27,7 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [Roaming Extension Manager](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.RoamingExtensionManager) - Stores your installed extensions in the cloud and synchronizes them across your machines for a uniform experience.
 - [Keyboard Shortcut Exporter](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KeyboardShortcutExporter) - Exports your keyboard shortcuts to XML.
 - [Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=GreggMiskelly.MicrosoftChildProcessDebuggingPowerTool) - Extension that also instruct Visual Studio to automatically attach to child processes.
+- [ReAttach](https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach) - Easy way to re-attach to previous debug targets.
 
 ## Documentation
 
