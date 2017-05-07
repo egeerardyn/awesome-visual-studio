@@ -32,6 +32,11 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [MSDN](https://msdn.microsoft.com/en-us/library/dd831853.aspx) - The Visual Studio landing page on Microsoft's Developer Network.
 - [VisualStudio docs](https://github.com/Microsoft/visualstudio-docs) - GitHub repo with the documentation for the upcoming VS2017RC.
 - [Visual Studio Shortcuts](http://visualstudioshortcuts.com/) - Overview of keyboard shortcuts for Visual Studio 2012 to 2017 organized by version.
+- [Windows Dev Center](https://developer.microsoft.com/en-us/windows) - Microsoft landing page for developers.
+- [Channel9: Visual Studio](https://channel9.msdn.com/VisualStudio) - Visual Studio content on Microsoft's Video Channel 9.
+- [Windows development videos](https://developer.microsoft.com/en-us/windows/develop/app-development-video) - Videos covering Windows development
+- [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material.
+
 
 ## Themes
 
@@ -50,9 +55,3 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/) - Microsoft Visual C++ Team Blog.
 - [Visual Studio Team Services](https://blogs.msdn.microsoft.com/vsoservice/) - Microsoft Visual Studio Team Services blog.
 - [Mads Kristensen's blog](http://madskristensen.net/) - Blog by a prolific Visual Studio extension developer.
-
-## Documentation
- - [Windows Dev Center](https://developer.microsoft.com/en-us/windows) - Microsoft landing page for developers.
- - [Channel9: Visual Studio](https://channel9.msdn.com/VisualStudio) - Visual Studio content on Microsoft's Video Channel 9.
- - [Windows development videos](https://developer.microsoft.com/en-us/windows/develop/app-development-video) - Videos covering Windows development
- - [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material.
