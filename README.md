@@ -29,6 +29,7 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=GreggMiskelly.MicrosoftChildProcessDebuggingPowerTool) - Extension that also instruct Visual Studio to automatically attach to child processes.
 - [ReAttach](https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach) - Easy way to re-attach to previous debug targets.
 - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides) - Adds indentation guides to the code editor to easily visualize the level of indentation.
+- [RevDeBug Prompter](https://marketplace.visualstudio.com/items?itemName=vs-publisher-1469962.RevDeBugPrompter) - Lightweight debugging aid for C#.
 
 ## Documentation
 
